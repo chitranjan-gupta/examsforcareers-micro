@@ -4,11 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "client-install": "",
     "start": "node server.js",
-    "server": "nodemon server.js",
-    "client": "npm start --prefix client",
-    "dev": "concurrently \"npm run server\" \"npm run client\""
+    "heroku-postbuild":"NPM_CONFIG_PRODUCTION=false npm install npm && run build"
   },
   "author": "Chitranjan Kumar Gupta",
   "license": "ISC",
