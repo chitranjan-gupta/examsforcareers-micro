@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.344da217.chunk.css",
+    "main.js": "/static/js/main.03d032b2.chunk.js",
+    "main.js.map": "/static/js/main.03d032b2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a06e69b5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a06e69b5.js.map",
+    "static/js/2.d24e5342.chunk.js": "/static/js/2.d24e5342.chunk.js",
+    "static/js/2.d24e5342.chunk.js.map": "/static/js/2.d24e5342.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.344da217.chunk.css.map": "/static/css/main.344da217.chunk.css.map",
+    "static/js/2.d24e5342.chunk.js.LICENSE.txt": "/static/js/2.d24e5342.chunk.js.LICENSE.txt",
+    "static/media/Prize.a0cc48ee.svg": "/static/media/Prize.a0cc48ee.svg",
+    "static/media/App.css": "/static/media/bg.12cea943.svg",
+    "static/media/edit.b9ef7ae7.svg": "/static/media/edit.b9ef7ae7.svg",
+    "static/media/exam.83026aac.svg": "/static/media/exam.83026aac.svg",
+    "static/media/girl.ddf589f5.svg": "/static/media/girl.ddf589f5.svg",
+    "static/media/home.31593d7f.svg": "/static/media/home.31593d7f.svg",
+    "static/media/lines.83e7754e.svg": "/static/media/lines.83e7754e.svg",
+    "static/media/lock.b796dbf7.svg": "/static/media/lock.b796dbf7.svg",
+    "static/media/logo_main.b915cc9e.png": "/static/media/logo_main.b915cc9e.png",
+    "static/media/logout.4481425e.svg": "/static/media/logout.4481425e.svg",
+    "static/media/mile.5afeae9b.svg": "/static/media/mile.5afeae9b.svg",
+    "static/media/people.c4e48126.svg": "/static/media/people.c4e48126.svg",
+    "static/media/person.60f02a86.svg": "/static/media/person.60f02a86.svg",
+    "static/media/search.a3123496.svg": "/static/media/search.a3123496.svg",
+    "static/media/setting.a7b18047.svg": "/static/media/setting.a7b18047.svg",
+    "static/media/sign_in.af3dde19.svg": "/static/media/sign_in.af3dde19.svg",
+    "static/media/sign_up.4741af13.svg": "/static/media/sign_up.4741af13.svg",
+    "static/media/user.bb112872.svg": "/static/media/user.bb112872.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a06e69b5.js",
+    "static/js/2.d24e5342.chunk.js",
+    "static/css/main.344da217.chunk.css",
+    "static/js/main.03d032b2.chunk.js"
+  ]
+}
