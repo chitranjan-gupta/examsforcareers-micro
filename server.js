@@ -22,9 +22,6 @@ app.use('/api/users',users);
 const authenticate = (req,res,next) => {
     next();
 }
-app.get('/', (req,res) => {
-    res.send('<h1>GET</h1>') 
-})
 // app.get('/about',authenticate, (req,res) => {
 //     res.send('about ');
 // })
